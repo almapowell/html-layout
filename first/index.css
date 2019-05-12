@@ -1,4 +1,26 @@
 body {
-    height: 100%;
+    height: 100vh;
     width: 100%;
+    margin: 0;
+    background-color: azure
+}
+
+.header {
+    height: 20vh;
+    width: 100%;
+    background-color: darkslategrey
+}
+
+.main {
+    height: 70vh;
+    width: 75%;
+    margin: 0 auto;
+    background-color: white
+}
+
+.footer {
+    height: 10vh;
+    width: 75%;
+    margin: 0 auto;
+    background-color: black
 }
